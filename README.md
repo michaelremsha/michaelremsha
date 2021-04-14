@@ -11,7 +11,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelremsha&show_icons=true&locale=en&layout=compact&theme=buefy" alt="michaelremsha" /></p>
 
-<p> <img align="left" src="https://pbs.twimg.com/media/EQ2cqPtW4AoZYvB?format=jpg&name=small" alt="bird" width="40" height="40"/><p>
+<p> <img align="left" src="https://pbs.twimg.com/media/EQ2cqPtW4AoZYvB?format=jpg&name=small" alt="bird" width="400" height="400"/><p>
 
 <!--
 **michaelremsha/michaelremsha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
