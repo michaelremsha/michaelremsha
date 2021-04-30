@@ -1,8 +1,17 @@
 <h3 align=left> Michael R</h3>
 
-## I'm a Full Stack Developer, crawling through documentations
+## I'm a Full Stack Developer
+i'm looking for a job while crawling through documentations. Play piano and do a renownly good massage. Prefer games that test your ADHD medication.
 
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+### Conntacts
+<img align="left" alt="michaelremsha" width="22px" href="https://www.linkedin.com/in/michaelremsha/" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<br />
+<h3 align="left">michaelremsha@gmail.com </h3>
+<br />
+<br />
+<br />
 
 <h2 align="left">Languages and Tools: 🛠️</h2>
 <img align="left" alt="React" width="26px"  href="https://reactjs.org/" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
@@ -15,17 +24,12 @@
 <img align="left" alt="PSQL" width="26px" href="https://www.postgresql.org" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />
 
 <br />
-### Conntacts
-[<img align="left" alt="michaelremsha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-
-[![michaelremsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelremsha&theme=monokai)](https://github.com/michaelremsha/github-readme-stats)
+<br />
 <br />
 
 <h2>By the Numbers 📊 </h2>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelremsha&show_icons=true&locale=en&layout=compact&theme=buefy" alt="mremsha" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelremsha&show_icons=true&locale=en&layout=compact&theme=buefy" alt="michaelremsha" /></p>
 
 
 
