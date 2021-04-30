@@ -14,6 +14,7 @@
 <img align="left" alt="NodeJS" width="26px" href="https://nodejs.org" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
 <img align="left" alt="PSQL" width="26px" href="https://www.postgresql.org" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />
 
+<br />
 ### Conntacts
 [<img align="left" alt="michaelremsha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
@@ -21,13 +22,12 @@
 
 [![michaelremsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelremsha&theme=monokai)](https://github.com/michaelremsha/github-readme-stats)
 <br />
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-<br />
+
 <h2>By the Numbers 📊 </h2>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelremsha&show_icons=true&locale=en&layout=compact&theme=buefy" alt="michaelremsha" /></p>
 
-<p> <img align="left" src="https://pbs.twimg.com/media/EQ2cqPtW4AoZYvB?format=jpg&name=small" alt="bird" width="400" height="400"/><p>
+
 
 <!--
 **michaelremsha/michaelremsha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
